@@ -1,4 +1,4 @@
-# Interactive-Airbnb-Pricing-Dashboard-Data-Visualization-with-Python-Dash
+# Interactive Airbnb Pricing Dashboard Data Visualization with Python Dash
 
 ## 1. 0 Project Summary 
 
