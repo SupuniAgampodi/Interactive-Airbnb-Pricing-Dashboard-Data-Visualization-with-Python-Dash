@@ -1,0 +1,30 @@
+USER MANUAL
+
+
+Step 1: Setup Path
+
+-	Go to the downloaded ZIP folder and unzip the files. Then, locate the subfolder named Application inside the Airbnb Interactive System folder.
+
+-	Open the command prompt from this location. 
+
+
+Step 2:  Download Required Libraries
+
+-	You can install all required modules using the ‘’requirements.txt’’ file.
+
+-	Use the below command to install all the required modules.
+pip install -r requirements. txt
+
+
+Step 3: Run the Application
+
+-	One the installation is done, run the below command to run the application.
+
+python app.py
+
+
+Step 4: Launch the Interactive System
+
+Follow the link shown in the command prompt or type the below address in your web browser to launch the system.
+
+http://127.0.0.1:8050/
