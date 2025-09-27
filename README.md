@@ -17,9 +17,13 @@ Imagine Sam, an aspiring Airbnb host unsure how to price his listing in a compet
 
 ### 1.5 Target Audience
 ●	Existing Airbnb Hosts: To refine pricing strategies.
+
 ●	Prospective Property Investors: To identify high-demand areas and profitable property types.
+
 ●	Real Estate Analysts: To generate market trend insights.
+
 ●	Data Enthusiasts and Researchers: To leverage the platform for extended data exploration.
+
 
 ## 2.0 Dataset Analysis
 
@@ -28,6 +32,7 @@ The dataset utilized for this project was sourced from Airbnb listings across We
 
 ### 2.2 Data Cleaning and Preprocessing
 Data cleaning was essential to ensure the quality and reliability of the analysis. Key steps included:
+
 ●	Handling Missing Values: We identified and addressed missing data points using imputation techniques where applicable, ensuring a complete dataset for analysis.
 
 ●	Converting Data Types: Certain columns were converted to appropriate data types (e.g., numeric, categorical) to facilitate accurate analysis and visualizations.
@@ -37,6 +42,7 @@ Data cleaning was essential to ensure the quality and reliability of the analysi
 
 ### 2.3 Data Exploration and Discovery
 The initial data exploration process revealed several key findings:
+
 ●	Average Prices: The average listing price across the dataset is approximately $269, with a wide price range from $23 to over $16,000, indicating a diverse market with various property types.
 
 ●	Common Amenities: Listings often feature amenities such as Wi-Fi, air conditioning, and kitchen facilities, which are highly sought after by guests and contribute to higher pricing.
@@ -208,7 +214,9 @@ Violin plot provides a clear visual representation of the distribution of a nume
 
 ### Overall Distribution
 ●	The plot shows that the distribution of log price varies significantly across different room types.
+
 ●	The violin shape indicates the density of data points at different price levels. Thicker parts of the violin represent regions with a higher concentration of data points.
+
 
 
 ### Room Type Differences
@@ -226,10 +234,6 @@ Violin plot provides a clear visual representation of the distribution of a nume
 ●	The box plot within each violin provides additional information about the quartiles and potential outliers.
 
 
-<img width="975" height="377" alt="image" src="https://github.com/user-attachments/assets/3ca7d088-73b9-4986-bea9-bc17043333c4" />
-
-
-The plot suggests that Superhosts tend to list properties at higher prices compared to non-Superhosts. The violin for Superhosts is shifted towards the right, indicating higher prices.It allows for easy comparison of the distribution between Superhosts and non-Superhosts. The violin shape provides a clear visual representation of the density of data points at different price levels.
 
 
 <img width="975" height="381" alt="image" src="https://github.com/user-attachments/assets/805f300b-04d6-4fd9-80f2-1c77fe5124a4" />
